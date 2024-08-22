@@ -160,7 +160,8 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Android: com.DefaultCompany.AR_battleship
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -939,7 +940,7 @@ PlayerSettings:
   cloudProjectId: 7af5cd66-9a08-404e-87a3-4349c4132a36
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: BattleShip Game 3D
+  projectName: AR_battleship
   organizationId: qzahamada
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
